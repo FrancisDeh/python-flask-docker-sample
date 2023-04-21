@@ -2,14 +2,14 @@
 This is a sample flask app bundled up with Docker
 
 #### Content
-[Installation and Setup](#installation-and-setup)
-[Prerequisites](#prerequisites)
-[Local Development](#local-development)
-[Build the image](#build-the-image)
-[Tagging the image](#tagging-the-image)
-[Running the image](#run-the-image)
-[Working with the container](#working-with-containers)
-[Github Actions](#github-actions)
+- [Installation and Setup](#installation-and-setup)
+- [Prerequisites](#prerequisites)
+- [Local Development](#local-development)
+- [Build the image](#build-the-image)
+- [Tagging the image](#tagging-the-image)
+- [Running the image](#run-the-image)
+- [Working with the container](#working-with-containers)
+- [Github Actions](#github-actions)
 
 ***
 # Installation and Setup
